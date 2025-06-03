@@ -1,0 +1,25 @@
+body {
+  font-family: Arial;
+  background-color: white;
+  padding: 2em;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 40px;
+  margin-bottom: 80px;
+  text-align: center;
+}
+
+li {
+  line-height: 30px;
+}
+
+.self-introduction {
+  color: gray;
+  margin-left: 30px;
+}
+
+.time-right {
+  float: right;
+}
